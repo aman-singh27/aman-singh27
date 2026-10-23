@@ -1,140 +1,57 @@
-# Aman Singh
+<img src="assets/hero.svg" alt="Aman Singh — I build the product. Then connect the system." width="100%" />
 
-> AI Automation Engineer & Full‑Stack Developer | LLM Workflows · Automation Pipelines · React (TSX) · Cloud‑First Systems
+<p align="center"><a href="https://www.linkedin.com/in/aman-singh-401a48306/"><b>LINKEDIN ↗</b></a> &nbsp; / &nbsp; <a href="mailto:amansingh271204@gmail.com"><b>LET'S TALK ↗</b></a> &nbsp; / &nbsp; <a href="PROJECTS.md"><b>PROJECT DIRECTORY ↗</b></a></p>
 
-I design and ship automation-first products, leveraging LLMs, agents, and modern web stacks to turn messy, manual workflows into reliable, scalable systems.
+### Full-stack developer. Automation engineer. Detail enthusiast.
 
----
+I turn complicated workflows into products people can understand. My work moves between **React interfaces, Python backends, AI workflows and the integrations that connect them** — with a close eye on how the whole thing feels to use.
 
-## About
+B.Tech CSE · AI & ML · **Manipal University Jaipur, 2027** · **9.0/10 CGPA**  
+Currently developing **Tenary**, an independent automation venture.
 
-- B.Tech CSE (AI & ML), Manipal University Jaipur · 2027 · GPA 8.84  
-- Primary focus on AI-driven automation, workflow orchestration, and full-stack product development  
-- Experience building production-grade systems for SMEs, student communities, and consumer-facing products  
+<br />
 
----
+## Selected builds
 
-## Tech Stack
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/aman-singh27/splitly-decentro-assignment"><img src="assets/splitly.svg" alt="Splitly: Every balance has a story." width="100%" /></a><h3><a href="https://github.com/aman-singh27/splitly-decentro-assignment">Splitly ↗</a></h3><p>Expense sharing with exact money calculations, custom splits and explainable balances.</p><p><sub>Django · React · TypeScript</sub></p></td>
+<td width="50%" valign="top"><a href="https://github.com/aman-singh27/PO-Tracker"><img src="assets/orders.svg" alt="PO Tracker: From cells to a system." width="100%" /></a><h3><a href="https://github.com/aman-singh27/PO-Tracker">PO Tracker ↗</a></h3><p>A purchase-order workspace with fast entry, revisions, migration review and audit history.</p><p><sub>Django · DRF · React</sub></p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/aman-singh27/photo_app"><img src="assets/photos.svg" alt="PhotoBooth: Capture. Curate. Keep." width="100%" /></a><h3><a href="https://github.com/aman-singh27/photo_app">PhotoBooth ↗</a></h3><p>Android capture, a desktop gallery, vintage strips and a print-queue handoff.</p><p><sub>Kotlin · CameraX · Python</sub></p></td>
+<td width="50%" valign="top"><a href="https://github.com/aman-singh27/ACE-CONSULTING"><img src="assets/jobs.svg" alt="JobIntel: Research that connects." width="100%" /></a><h3><a href="https://github.com/aman-singh27/ACE-CONSULTING">JobIntel ↗</a></h3><p>Job discovery, company research, scoring and CRM workflows in one workspace.</p><p><sub>React · FastAPI · PostgreSQL</sub></p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/aman-singh27/ambient-expense-tracker"><img src="assets/ambient.svg" alt="Ambient: Know where it goes." width="100%" /></a><h3><a href="https://github.com/aman-singh27/ambient-expense-tracker">Ambient ↗</a></h3><p>A browser-local ledger for bank and cash entries, spending review and CSV export.</p><p><sub>React · TypeScript · Vite</sub></p></td>
+<td width="50%" valign="top"><a href="https://github.com/aman-singh27/techlearn"><img src="assets/learn.svg" alt="TechLearn: Make room for focus." width="100%" /></a><h3><a href="https://github.com/aman-singh27/techlearn">TechLearn ↗</a></h3><p>A document-style learning MVP with topic navigation and a structured content API.</p><p><sub>React · Express · MongoDB</sub></p></td>
+</tr>
+</table>
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FCPP-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="right"><a href="PROJECTS.md"><b>Explore the full project directory →</b></a></p>
 
-### Frontend
-![React](https://img.shields.io/badge/React%20(TSX)-61DAFB?style=for-the-badge&logo=react&logoColor=222)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
+## Beyond the repository
 
-### Backend & Data
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=222)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=222)
-![REST](https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge)
-![Serverless](https://img.shields.io/badge/Serverless-FF4F8B?style=for-the-badge&logo=serverless&logoColor=white)
+Some of my work lives inside teams and company products. These are contributions, with their own boundaries:
 
-### AI, Automation & Agents
-![n8n](https://img.shields.io/badge/n8n-F37C20?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make.com-2D0063?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini_AI-000000?style=for-the-badge)
-![Mistral](https://img.shields.io/badge/Mistral_AI-FF6F3C?style=for-the-badge)
-![OCR](https://img.shields.io/badge/OCR_Pipelines-1E293B?style=for-the-badge)
-![Agents](https://img.shields.io/badge/AI_Agents-020617?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0F172A?style=for-the-badge)
+- **rkitect.ai** — SketchUp capture and rendering workflows, 360° views and iterative AI edits; also content-generation and review pipelines. [Contribution notes](case-studies/rkitect.md).
+- **NavPal** — collaborative indoor maps, QR anchors and graph routing. Campus deployment was under review.
+- **Campus Hub** — authentication, access flows and event/food experiences built with the university team.
 
-### Cloud & DevOps
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Render](https://img.shields.io/badge/Render-2F3C4F?style=for-the-badge&logo=render&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0069FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker_(Basics)-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## My working set
 
----
+| Product interfaces | APIs & data | AI & automation | Delivery & craft |
+| :--- | :--- | :--- | :--- |
+| React · TypeScript | Python · Django · DRF | Gemini · OpenRouter | Git · Docker |
+| Next.js · Vite | FastAPI · Express | n8n · Playwright | Figma · GSAP |
+| HTML · CSS | PostgreSQL · MongoDB | OCR · workflow orchestration | Kotlin · SketchUp / Ruby |
+| Responsive design | Firebase · Supabase | Webhooks · review pipelines | Accessible interfaces |
 
-## Selected Projects
+<br />
 
-### MedVault · Emergency Medical Record Access
-Tech: React (TSX), Firebase, Supabase, Gemini AI  
-- Secure emergency medical record access with role-based authorization and real-time Firestore sync  
-- Integrated AI report parsing using Gemini to make clinical documents searchable and structured  
+> Good software should make the next step obvious.
 
-### AI-Powered Invoice Automation System · In Progress
-Tech: Mistral OCR, Gemini AI, GCP  
-- OCR + LLM pipeline for invoice data extraction and validation  
-- Designed to automate reconciliation and reduce manual entry effort by ~90%  
+If you're building something useful, I'd like to hear about it.  
+**[amansingh271204@gmail.com](mailto:amansingh271204@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/aman-singh-401a48306/)
 
-### MUJ Eats · WhatsApp Food Ordering System
-Tech: n8n, WhatsApp API, GCP  
-- Automated ordering workflow with conversational WhatsApp interface and real-time status updates  
-- Serverless backend using cloud functions for scalable, low-ops deployment  
-
-### Aman Star · Full-Stack E‑Commerce Platform
-Tech: React, Vite, Node.js, MongoDB  
-- Production-ready e-commerce with WhatsApp-based ordering and admin dashboard  
-- Performance-focused implementation leading to ~40% faster load times through optimization  
-
-### CampusHub · Student Platform
-Tech: React, Firebase, Figma  
-- Platform for event registration, club management, and student dashboards  
-- Built a reusable design system in Figma and implemented full-stack flows end-to-end  
-
----
-
-## Tenary · AI Automation Studio
-
-Founder & Automation Engineer at Tenary, focusing on:  
-- Building n8n- and LLM-powered automation pipelines for SMEs  
-- Designing reusable automation templates for CRM, accounting, and invoice parsing  
-- Delivering workflow automations that significantly reduce repetitive operational workload  
-
-The goal is to ship quiet but high-leverage systems that let teams focus on work that actually moves the needle.
-
----
-
-## What I'm Working On
-
-- Scaling AI-first automation systems for real-world business workflows  
-- Deepening expertise in AI agents, retrieval pipelines, and multimodal LLM use-cases  
-- Refining cloud-first architectures for fast, maintainable, and observable products  
-
----
-
-## Certifications
-
-- NPTEL Machine Learning · Top 2% Performer  
-- Cisco Networking Essentials  
-- Oracle Database Programming with SQL  
-- DSA – CodeChef  
-- Python Essentials – Cisco  
-
----
-
-## GitHub Snapshot
-
-<div align="center">
-
-<a href="https://github.com/aman-singh27">
-  <img src="https://github-readme-stats.vercel.app/api?username=aman-singh27&show_icons=true&hide_border=true&count_private=true&theme=github_dark&hide_title=true" height="150" />
-</a>
-<a href="https://github.com/aman-singh27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-singh27&layout=compact&hide_border=true&theme=github_dark" height="150" />
-</a>
-
-</div>
-
----
-
-## Connect
-
-- GitHub: [github.com/aman-singh27](https://github.com/aman-singh27)  
-- LinkedIn: [linkedin.com/in/aman-singh-401a48306](https://www.linkedin.com/in/aman-singh-401a48306/)  
-- Email: [amansingh271204@gmail.com](mailto:amansingh271204@gmail.com)  
-
----
-
-<div align="center">
-
-Crafting automation-first products at the intersection of AI, systems design, and clean engineering.
-
-</div>
+<sub>Project status and scope are documented in the directory. Team contributions are credited; company source and private operational data stay private.</sub>
