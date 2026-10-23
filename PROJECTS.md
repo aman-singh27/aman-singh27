@@ -19,7 +19,6 @@ A scoped guide to my implemented projects, creative deliverables and team contri
 | NavPal | Source held privately | Team-built indoor navigation, editable maps and QR anchors. Campus-wide deployment under review. |
 | Campus Hub | Source held privately | University-team authentication, event registration and food workflows. Team contribution. |
 | MUJ Eats | Source held privately | WhatsApp ordering coordination, vendor routing and status notifications. |
-| Aman Star | Company contribution | Commerce frontend and WhatsApp ordering work. No ownership of the company or unverified performance claim. |
 | rkitect SketchUp Tools | [Contribution notes](case-studies/rkitect.md) | Delivered company modules: capture, 360° views, unified viewpoints and iterative AI editing. |
 | rkitect Content Engine | [Contribution notes](case-studies/rkitect.md) | Company research-to-content pipeline with generation, QA, review and publishing integrations. |
 | rkitect Product Website | [Contribution notes](case-studies/rkitect.md) | Company product storytelling and documentation frontend; no lead-backend claim. |
